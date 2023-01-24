@@ -1,4 +1,5 @@
 //Tasks 6.2
+//Айнур Лучший!!!!!
 
 package main
 
